@@ -10,4 +10,5 @@
  1255  git pull  chabmontaut-gh main
  1256  ll
 
- ok?
+ ok avec : git push  chabmontaut-gh master
+
