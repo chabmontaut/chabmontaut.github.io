@@ -1,0 +1,12 @@
+ 1246  mkdir GIT-GH
+ 1247  cd GIT-GH/
+ 1248  git remote add recipes-gh https://github.com/chabmontaut/chabmontaut.github.io.git
+ 1249  git remote add chabmontaut-gh https://github.com/chabmontaut/chabmontaut.github.io.git
+ 1250  git init
+ 1251  ls -al
+ 1252  git remote add chabmontaut-gh https://github.com/chabmontaut/chabmontaut.github.io.git
+ 1253  git remote 
+ 1254  ls -al
+ 1255  git pull  chabmontaut-gh main
+ 1256  ll
+
