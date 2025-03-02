@@ -10,5 +10,9 @@
  1255  git pull  chabmontaut-gh main
  1256  ll
 
+1 - Apres modif :
+  git commit * -m "ok"
+
+
  ok avec : git push  chabmontaut-gh master
 
